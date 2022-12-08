@@ -1,0 +1,7 @@
+.test {
+  margin: 20px 0;
+}
+.test:hover {
+  color: blue;
+  cursor: pointer;
+}
